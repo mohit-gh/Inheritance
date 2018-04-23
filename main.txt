@@ -1,0 +1,12 @@
+When the Properties and the methods of the parent class are accessed by the child class, we call the concept has inheritance.
+The Child class can inherit the parent method and give own method implementation, this property is called overridden method.
+When the same method of the parent class is inherited we call as inherited method. Now let us see types of inheritance supported in
+Object Oriented Programming and Corresponding PHP Inheritance examples.
+
+Types of Inheritance:
+
+Single level Inheritance : In Single level Inheritance the Parent Class Methods will be extended by the child class. All the methods
+can be inherited.
+
+MultiLevel Inheritance : In MultiLevel Inheritance, the parent class method will be inherited by the child class and again subclass
+will inherit the child class method.
